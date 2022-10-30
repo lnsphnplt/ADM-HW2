@@ -34,6 +34,7 @@ The repository contains the following files:
   > this readme file
 
 5. __`LICENSE`__
+> MIT License
   
 
 
